@@ -1,0 +1,4 @@
+#!/bin/bash
+# update path
+export PATH=/usr/local/bin:${HOME}/.scripts:${PATH}:/sbin
+
