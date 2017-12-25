@@ -116,6 +116,10 @@ alias chromekill="ps ux | grep '[C]hrome Helper --type=renderer' | grep -v exten
 # vhosts
 alias hosts='sudo vim /etc/hosts'
 
+# use nvim
+alias vi=nvim
+alias vim=nvim
+
 # copy working directory
 alias cwd='pwd | tr -d "\r\n" | xclip -selection clipboard'
 
